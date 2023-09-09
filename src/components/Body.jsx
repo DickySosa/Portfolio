@@ -81,7 +81,7 @@ const Body = () => {
                         <img src="https://i.imgur.com/BDdIC6y.png" alt="ShapeShifters" />
                     </article>
 
-                    <article className="reverse">
+                    {/* <article className="reverse">
                     <div className="text">
                         <h4></h4>
                         <h3>AccuStrickeZone</h3>
@@ -100,11 +100,11 @@ const Body = () => {
                         </ul>
                     </div>
                     <img src="https://cdn.britannica.com/53/212553-050-E4A98496/Baseball-bat.jpg" alt="Paper" />
-                </article>
+                </article> */}
 
-                <article>
-                        <div className="text">
-                            <h4></h4>
+                    <article className="reverse">
+                    <div className="text">
+                        <h4></h4>
                             <h3>Wordle</h3>
                             <p className="black-box">fun online word game that challenges your guessing skills 
                             and vocabulary. The goal of the game is to guess a secret five-letter word within a 
@@ -120,7 +120,8 @@ const Body = () => {
                             </ul>
                         </div>
                         <img src="https://i.imgur.com/mHix24g.png" alt="Wordle" />
-                    </article>
+                </article>
+                    
                 </div>
 
 
