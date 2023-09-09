@@ -10,29 +10,40 @@ const AboutMe = () => {
 
             <section class="Wall-of-wonder">
                 <div class="wall">
-                    <h2>Projects i´m proud of</h2>
+                    <h2>About me</h2>
                     <article>
                         <div class="text">
-                            <h4>Latest Project</h4>
-                            <h3>Wall of wonder</h3>
+                            <h4></h4>
+                            <h3>Quick Bio</h3>
                             <p class="black-box">
-                                Description of the project. Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit. Sed ut risus mauris. Nulla facilisi. Donec at
-                                molestie lorem. Nam interdum velit sit amet purus tristique, sit amet
-                                rhoncus velit ultrices. Donec laoreet ultrices ligula, sed interdum
-                                ante pulvinar nec.
+                            Passionate and results-driven Software Developer experienced in HTML, 
+                            CSS, JavaScript, React, Node.js, and Express.js. Proficient in building 
+                            responsive and dynamic user interfaces using HTML, CSS, and JavaScript. 
+                            Skilled in utilizing React to develop interactive and engaging frontend 
+                            components. Experienced in efficient data management using SQL and PostgreSQL, 
+                            ensuring data integrity and security. Proficient in Git, GitHub, and Bash scripting 
+                            for version control and collaborative development. Strong problem-solving abilities 
+                            and attention to detail. Effective communicator and team player. Fluent in English 
+                            (90% proficiency).
                             </p>
-                            <p>My favorite Technologies to use:</p>
+                            <p>My Technologies:</p>
                             <ul>
                                 <li>HTML</li>
                                 <li>CSS</li>
+                                <li>TypeScript</li>
                                 <li>JavaScript</li>
-                                <li>React</li>
+                                <li>React.js</li>
+                                <li>SQL</li>
+                                <li>PostgreSQL</li>
+                                <li>Node.js</li>
+                                <li>Express.js</li>
+                                <li>Git</li>
+                                <li>GitHub</li>
                             </ul>
                         </div>
                         <img
-                            src="https://cdn.britannica.com/53/212553-050-E4A98496/Baseball-bat.jpg"
-                            alt="Paper"
+                            src="https://i.imgur.com/EPmzQpi.jpg"
+                            alt="Dicky Sosa"
                         />
                     </article>
                 </div>

@@ -42,7 +42,7 @@ const Headers = () => {
                     </a>
                 </li>
                 <li>
-                    <a className="resumen links" href="./aboutMe.html">
+                    <a className="resumen links" href="https://drive.google.com/file/d/1GQ_TiZzUnPL2TLXFC4uM0CtsdWCganNL/view?usp=sharing" target="_blank">
                         <button className="res-btn">Resume</button>
                     </a>
                 </li>

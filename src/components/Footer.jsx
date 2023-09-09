@@ -21,12 +21,7 @@ const Footer = () => {
                     />
                 </a>
 
-                <img
-                    className="footer-email links"
-                    src="https://w7.pngwing.com/pngs/595/338/png-transparent-icon-email-email-miscellaneous-angle-text.png"
-                    alt="email"
-                    href="mailto:dicky5217@gmail.com"
-                />
+              
                 
             </div>
             <p><small>&copy; 2023 Dicky Sosa. All rigths reserved</small></p>

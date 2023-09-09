@@ -52,6 +52,7 @@ const Body = () => {
                                 <li>React.js</li>
                                 <li>Node.js</li>
                                 <li>Express.js</li>
+                                <li>SQL</li>
                                 <li>PostgreSQL</li>
                             </ul>
                         </div>
@@ -75,6 +76,7 @@ const Body = () => {
                                 <li>React.js</li>
                                 <li>Node.js</li>
                                 <li>Express.js</li>
+                                <li>SQL</li>
                                 <li>PostgreSQL</li>
                             </ul>
                         </div>
@@ -133,7 +135,9 @@ const Body = () => {
                 <h2>Contact me</h2>
                 <p>i´m always interested in hearing about new job opportunities</p>
                 <p>
-                    <a className="resumen links">
+                    <a className="resumen links"
+                    href="mailto:dsosa.webdev@gmail.com"
+                    >
                         <button className="res-btn">Email me</button>
                     </a>
                 </p>
