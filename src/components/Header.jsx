@@ -24,7 +24,7 @@ const Headers = () => {
                 </li>
                 <li><a className="projects links" onClick={() => handleNavigation('/')}>Projects</a></li>
                 <li><a className="about links" onClick={() => handleNavigation('/about-me')}>About</a></li>
-                <li><a className="aditionalContacts links">Contact</a></li>
+                <li><a className="aditionalContacts links" onClick={() => handleNavigation('/contact')}>Contact</a></li>
                 <li>
                     <a className="linkedin io links" href="https://www.linkedin.com/in/dicky-sosa-4308b5272/" target="_blank">
                         <img

@@ -6,16 +6,16 @@ const AboutMe = () => {
     return (
         <div>
             <Headers></Headers>
-            <div class="gradient"></div>
+            <div className="gradient"></div>
 
-            <section class="Wall-of-wonder">
-                <div class="wall">
+            <section className="Wall-of-wonder">
+                <div className="wall">
                     <h2>About me</h2>
                     <article>
-                        <div class="text">
+                        <div className="text">
                             <h4></h4>
                             <h3>Quick Bio</h3>
-                            <p class="black-box">
+                            <p className="black-box">
                             Passionate and results-driven Software Developer experienced in HTML, 
                             CSS, JavaScript, React, Node.js, and Express.js. Proficient in building 
                             responsive and dynamic user interfaces using HTML, CSS, and JavaScript. 
@@ -48,7 +48,7 @@ const AboutMe = () => {
                     </article>
                 </div>
             </section>
-            <div class="gradient"></div>
+            <div className="gradient"></div>
             <Footer></Footer>
         </div>
     )

@@ -20,8 +20,6 @@ const Footer = () => {
                         alt="Github"
                     />
                 </a>
-
-              
                 
             </div>
             <p><small>&copy; 2023 Dicky Sosa. All rigths reserved</small></p>
